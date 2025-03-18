@@ -17,17 +17,20 @@ Este é um projeto simples de **sorteio de amigo secreto**, onde os usuários po
 ## 🎮 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/AndreJustiniano/amigo-secreto-jogo.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd amigo-secreto
+   cd amigo-secreto-jogo
    ```
 3. Abra o arquivo `index.html` no navegador.
 
-## 📷 Captura de Tela
-(Adicione aqui uma imagem do projeto rodando)
 
----
-💡 **Dica**: Caso tenha sugestões de melhorias, sinta-se à vontade para contribuir enviando um Pull Request! 🚀
+
+-
+
+https://github.com/user-attachments/assets/c0957de6-a732-4c5b-94a4-268ddbb72fb6
+
+--
+ 🚀
 
